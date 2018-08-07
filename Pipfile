@@ -8,6 +8,7 @@ name = "pypi"
 [packages]
 jupyter = "*"
 opencv-python = "*"
+matplotlib = "*"
 
 [requires]
 python_version = "3.7"
